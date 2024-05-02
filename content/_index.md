@@ -83,9 +83,9 @@ sections:
           date_start: '2020-05-01'
           date_end: ''
           description: |2-
-              * Designed and implemented chat-based copilot using open-source LLMs
-              * Developed multimodal deep-learning models incorporating ECG signals, clinical notes, and structured EHR data
-              * Implemented few-shot entity extraction methods in clinical dashboards for determining immunosuppression status
+              * Designed and implemented chat-based copilots for various use-cases in clinical dashboards.
+              * Developed multimodal deep-learning models incorporating ECG signals, clinical notes, and structured EHR data to predict the risk of various cardiovascular diseases
+              * Implemented few-shot entity extraction methods to accurately extract rich clinical context from unstructured clinical notes
         - title: Research Assistant
           company: MIT
           # company_url: 'https://web.mit.edu/'
